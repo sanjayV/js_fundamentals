@@ -1,0 +1,1 @@
+https://developer.chrome.com/apps/angular_framework => for make chrome app with angular js
