@@ -1,1 +1,4 @@
 https://developer.chrome.com/apps/angular_framework => for make chrome app with angular js
+
+
+http://stackoverflow.com/questions/15005419/how-to-make-an-angular-js-app-offline-with-server-sync-when-available
